@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Banco Andino Digital",
+  "description": "A comprehensive digital banking application for Banco Andino featuring loan simulators, branch locators, help center with AI assistance, and appointment booking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
